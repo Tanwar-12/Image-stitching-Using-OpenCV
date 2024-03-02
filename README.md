@@ -1,1 +1,1 @@
-# -Image-stitching-Using-OpenCV
+# Image stitching Using OpenCV
